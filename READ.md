@@ -1,0 +1,1 @@
+Başlangıç Seviye Frontend Web Development Patikası'nın HTML kursu kapsamında hazırladığım Ödev 3 dosyasıdır.
